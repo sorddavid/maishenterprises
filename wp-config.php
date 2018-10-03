@@ -21,11 +21,11 @@
 /** The name of the database for WordPress */
 define('DB_NAME', 'mysqldatabase4167');
 /** MySQL database username */
-define('DB_USER', 'mysqldbuser');
+define('DB_USER', 'mysqldbuser@narokresource-mysqldbserver');
 /** MySQL database password */
 define('DB_PASSWORD', '@qwerty12345');
 /** MySQL hostname */
-define('DB_HOST', 'narokresource-mysqldbserver');
+define('DB_HOST', 'narokresource-mysqldbserver.mysql.database.azure.com');
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
 /** The Database Collate type. Don't change this if in doubt. */
